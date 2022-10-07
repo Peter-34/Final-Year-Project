@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Star Border
+    uniqueID: 1902863535
+    locked: 0
+  - name: Star Background
+    uniqueID: 1827391297
+    locked: 0
+  - name: Shadow Stars
+    uniqueID: 2854115057
+    locked: 0
+  - name: Stars
+    uniqueID: 3762725419
+    locked: 0
+  - name: DragPoint
+    uniqueID: 514934817
+    locked: 0
+  - name: Tree Lines
+    uniqueID: 3283268463
+    locked: 0
+  - name: Sprite Display Tree
+    uniqueID: 1026446561
+    locked: 0
+  - name: Sprites
+    uniqueID: 3029602043
+    locked: 0
+  - name: UI Stuff
+    uniqueID: 1071611167
+    locked: 0
